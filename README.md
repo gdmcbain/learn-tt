@@ -52,6 +52,14 @@ read closely on a second pass.
 
    * [Online supplements](http://www.cis.upenn.edu/~bcpierce/attapl/)
    * [Dead-tree copy](http://www.amazon.com/exec/obidos/ASIN/0262162288/benjamcpierce)
+       
+ - Type-Driven Development with Idris
+    
+   A very readable introduction to what programming with types front of
+   mind might be like, by Idris's creator, Edwin Brady.
+
+   * [Dead-tree and digital copies](https://www.manning.com/books/type-driven-development-with-idris)
+ 
 
 ### Proof Assistants
 
